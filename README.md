@@ -90,5 +90,5 @@ By Building this project I learned about the following concepts:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
-- [hirentimbadiya](https://github.com/anik2069)
+- [Md Anik Islam](https://github.com/anik2069)
 - Email : anikislam668@gmail.com
