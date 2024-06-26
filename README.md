@@ -67,9 +67,6 @@ npm install
 - [Tailwind CSS](https://tailwindcss.com/) - Styling
    
 
-## Working Demo
-https://github.com/hirentimbadiya/Video-Peers/assets/86219935/7ce8caf9-0881-4abe-b633-79d3bb0a87ef
-
 ## Future Scope
 
 - Text chat support in rooms
