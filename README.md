@@ -5,12 +5,6 @@
 This is a real time video chat application built using WebRTC, Socket.io, Node.js, Express.js, and Next.js. It allows users to create a room and share the room ID with other users to join the room for a peer-to-peer video call.
 
 
-## Deployment Link : https://video-peers.vercel.app/
-
-## Screen Shots :
-<p><img align="right" src="https://github.com/hirentimbadiya/Video-Peers/assets/86219935/3cc34115-e4db-460a-9825-d0e97a5f6cae" /></p>
-<p><img align="center" src="https://github.com/hirentimbadiya/Video-Peers/assets/86219935/24fa55ab-c08d-40f5-8023-060c06da78f5" alt="hirentimbadiya"/></p>
-
 ## How To Use : 
 First of all join any room lets say 7 for example with your email and room no. as 7 and then notify other person to enter in room no. 7, now you will get call button on screen this will allow to call other person and then call will be initiated and other person will be having a button called Send Streams and as other person clicks Send Streams Button then video call will be initiated.
 
@@ -99,5 +93,5 @@ By Building this project I learned about the following concepts:
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Author
-- [hirentimbadiya](https://github.com/hirentimbadiya)
-- Email : hirentimbadiya74@gmail.com
+- [hirentimbadiya](https://github.com/anik2069)
+- Email : anikislam668@gmail.com
